@@ -36,13 +36,15 @@ def Longest_Substring_without_Repeating_Characters(s: str):
             characters_counter = 1
             aux_substring = character
     
-    print(substring)
+    print("\nThe longest substring of s without duplicate characters is: ",substring)
 
 
 
 
 
 
-s = "pwwkew"
+# s = "pwwkew"
+# s = "bbbbb"
+s = "abcabcbb"
 
 Longest_Substring_without_Repeating_Characters(s)
