@@ -40,9 +40,6 @@ def Longest_Substring_without_Repeating_Characters(s: str):
 
 
 
-
-
-
 # s = "pwwkew"
 # s = "bbbbb"
 s = "abcabcbb"
